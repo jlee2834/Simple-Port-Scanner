@@ -3,7 +3,6 @@ A simple multithreaded TCP port scanner built in Python.
 
 This tool scans a target host across a specified port range and identifies open ports along with associated services where possible.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@ This tool scans a target host across a specified port range and identifies open 
 - Clean and readable output
 - Lightweight and easy to run
 
----
 
 ## How It Works
 
@@ -21,14 +19,12 @@ The scanner attempts to establish a TCP connection to each port in the specified
 
 If a connection is successful, the port is considered open and is reported.
 
----
 
 ## Requirements
 
 - Python 3.x
 - No external libraries required
 
----
 
 ## Usage
 
